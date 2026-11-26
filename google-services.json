@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228851024617",
+    "project_id": "tg-wedding-studio",
+    "storage_bucket": "tg-wedding-studio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228851024617:android:22ee497eb68ab72d0a2678",
+        "android_client_info": {
+          "package_name": "com.tgweddingstudio.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF7oQLf-5v3Esbd2zUs5TSaLwa_EZfJkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
